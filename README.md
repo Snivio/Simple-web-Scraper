@@ -1,2 +1,2 @@
 # Simple-web-Scraper
-extract all details and cout words
+extract all details and count words
