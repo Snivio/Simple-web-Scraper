@@ -34,7 +34,7 @@ def creatdictionary(cleanwords):
 
 def ssorting(finalwordcount):
     for key,value in sorted(finalwordcount.items(),key=operator.itemgetter(0)):
-        print key,value
+        print (key,value)
 
 
 
